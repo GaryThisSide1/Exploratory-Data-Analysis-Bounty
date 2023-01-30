@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-Bounty
-
-### 1. Using the graph based approach
+note - all the data was collected from the ocean protocol
+###  Using the graph based approach
 In this method of graph based approach addresses are nodes and transactions are edges.It can be used to get the features such as :-
 * In-degree: number of incoming edges for each node
 * Out-degree: number of outgoing edges for each node
@@ -27,5 +27,5 @@ As the cluster 0 has so many transactions in it it can't be the sybil attack but
 
 The person who did that two transactions in cluster 1 had a address of 0x0 and he did the transaction to the grant_id 7358 
 
-
+I uploaded the data set i got from this method on ocean protocol [ocean protocol link](https://market.oceanprotocol.com/asset/did:op:b2d554a5e09989bd81f1c54295fafab2a2784fb87ede3390a7103946f65df331)
 
