@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-Bounty
-note - all the data was collected from the ocean protocol
+note - all the data was collected and stored from the decetralized approach by collecting the data for the hackathon and submitting my own predictions on the ocean protocol
 ###  Using the graph based approach
 In this method of graph based approach addresses are nodes and transactions are edges.It can be used to get the features such as :-
 * In-degree: number of incoming edges for each node
