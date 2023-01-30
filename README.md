@@ -17,4 +17,4 @@ In this case, NetworkX is being used to create a graph representation of the tra
 The NetworkX library is useful for this task because it provides a convenient way to represent and manipulate graph data, as well as a variety of algorithms for graph analysis and visualization. This makes it easier to study the patterns in the data and identify any potential sybil attacks.
 
 On applying this approach on the Gitcoin Gr15 data i got this as the analysis:-
-   ![This is an image](images/)
+   ![This is an image](images/g15.png)
