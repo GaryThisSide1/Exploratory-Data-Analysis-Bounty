@@ -25,7 +25,10 @@ As u can see clearly there are three clusters cluster 0 , cluster 1 and cluster 
 
 As the cluster 0 has so many transactions in it it can't be the sybil attack but the cluster 1 and cluster 2 are kinda suspecious 
 
-The person who did that two transactions in cluster 1 had a address of 0x0 and he did the transaction to the grant_id 7358 
+The person who did that two transactions in cluster 1 had a address of 0x0 and he did the transaction to the grant_id 7358 two times
 
 I uploaded the data set i got from this method on ocean protocol [ocean protocol link](https://market.oceanprotocol.com/asset/did:op:b2d554a5e09989bd81f1c54295fafab2a2784fb87ede3390a7103946f65df331)
 
+i also used the in-degree and out-degree from this and made a graph from it 
+
+![This is an image](images/graph.png)
