@@ -29,7 +29,7 @@ The person who did that two transactions in cluster 1 had a address of 0x0 and h
 
 I uploaded the data set i got from this method on ocean protocol [ocean protocol link](https://market.oceanprotocol.com/asset/did:op:b2d554a5e09989bd81f1c54295fafab2a2784fb87ede3390a7103946f65df331)
 
-i also used the in-degree and out-degree from this and scatter it on the graph
+I also used the in-degree and out-degree from this and scatter it on the graph.
 
 ![This is an image](images/graph.png)
 
@@ -37,4 +37,5 @@ The in-degree of an address would be the number of transactions that were sent t
 
 In general, a high in-degree centrality or pagerank compared to out-degree centrality and the number of out-degree can indicate a suspicious pattern in the data, which is likely to be a sybil attack.
 
+There are so many analysis that can be done on this resultant data set this was just an example.
 i hope this was helpful :)
